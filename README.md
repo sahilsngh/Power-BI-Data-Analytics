@@ -6,9 +6,12 @@ Tools used Microsoft `Power BI`
 <br>
 `Dashboard UI`
 <br>
-![GTA5](https://github.com/sahilsngh/Power-BI-Data-Analytics/blob/main/visualizations.PNG)
 <br>
-# `Database`
+![dashboard](https://github.com/sahilsngh/Power-BI-Data-Analytics/blob/main/visualizations.PNG)
 <br>
-![GTA5](https://github.com/sahilsngh/Power-BI-Data-Analytics/blob/main/database.PNG)
+<br>
+`Database`
+<br>
+<br>
+![database](https://github.com/sahilsngh/Power-BI-Data-Analytics/blob/main/database.PNG)
 `Database` provided by https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ
