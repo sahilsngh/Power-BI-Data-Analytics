@@ -1,8 +1,8 @@
 # Data Analytics using `Power BI`
 
 `Problem Statement`: As a sales manager I need to analyse excel sales data and make decision using that Analysis.
-Use of `Sql Querries`
-Tools used Microsoft `Power BI`
+<br>
+Use of `Sql Querries` and tools used `Microsoft Power BI`
 <br>
 <br>
 `Dashboard UI`
