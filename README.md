@@ -4,7 +4,7 @@
 Use of `Sql Querries`
 Tools used Microsoft `Power BI`
 <br>
-<h1> `Dashboard UI` </h1>
+`Dashboard UI`
 <br>
 ![GTA5](https://github.com/sahilsngh/Power-BI-Data-Analytics/blob/main/visualizations.PNG)
 <br>
