@@ -4,6 +4,7 @@
 Use of `Sql Querries`
 Tools used Microsoft `Power BI`
 <br>
+<br>
 `Dashboard UI`
 <br>
 <br>
@@ -14,4 +15,6 @@ Tools used Microsoft `Power BI`
 <br>
 <br>
 ![database](https://github.com/sahilsngh/Power-BI-Data-Analytics/blob/main/database.PNG)
+<br>
+<br>
 `Database` provided by https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ
